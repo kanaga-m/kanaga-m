@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Kanagalakshmi M
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61F2FF&width=435&lines=Java+Developer+%7C+Full+Stack+Web+Designer+%7C+Tech+Explorer;HTML+%7C+CSS+%7C+JavaScript+%7C+React+JS+%7C+Node+JS;Welcome+to+My+GitHub+Profile!+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Java+Developer+%7C+Full+Stack+Web+Designer+%7C+Tech+Explorer;HTML+%7C+CSS+%7C+JavaScript+%7C+React+JS+%7C+Node+JS;Welcome+to+My+GitHub+Profile!+💻)
+
 
 ---
 
-![Dev GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![Web Dev GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ---
 
@@ -25,12 +27,12 @@
 ---
 
 ## 💼 Projects:
-- 🧾 **[Portfolio Website]** – My personal showcase, tech stack, and contact details  
-- 🏧 **ATM Simulator System** – A GUI-based Java project mimicking ATM functions  
+- 🧾 **Portfolio Website** – My personal showcase, tech stack, and contact details  
+- 🏧 **ATM Simulator System** – A GUI-based Java project mimicking ATM functions using Swing ,AWT  
 - 🛍️ **E-commerce Website (SuperMart)** – A visually rich shopping platform with swipe, modals, and responsive design  
 - 💅 **Beauty Bliss** – A stylish, responsive product showcase using React and Bootstrap  
 - 🌿 **Coffee Heaven** – A café-themed animated site with ordering form and product display  
-- 🌙 **MADRAS-E-NOORE ILAHI NISWAN** – A multilingual educational site for girls with video background
+
 
 ---
 
@@ -58,8 +60,8 @@
 ---
 
 ## 📫 Let's Connect:
-- 💌 Email: `your.email@example.com` *(update with your email)*
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) *(update your link)*
+- 💌 Email: `kanagalakshmimurthy@gmail.com`
+- 🌐 LinkedIn: [Kanagalakshmi M]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kanagalakshmi-m-96b04523b))
 
 ---
 
